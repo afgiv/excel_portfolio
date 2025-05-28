@@ -4,6 +4,7 @@ This project contains Excel files that showcases skills and knowledge for using 
 
 Contents:
 'Data Cleaning Excel.xlsx': Used different ways to clean the data that can be used for analysis.
+'Excel Project Dataset.xlsx': A full project from cleaning the dataset, fixing mispelled/errors, to creating Pivot tables as well as Charts for visualization.
 
 Sample formulas used:
 '=TRIM(text)': Trimmed the vice column by removing the whitespaces using the said formula.
